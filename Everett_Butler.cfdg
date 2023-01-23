@@ -1,0 +1,37 @@
+startshape SNOWMAN
+
+shape SNOWMAN
+{
+	Balls [ sat .5 hue 195
+		x 3 y -55
+		r 0 b 1 s 10
+	]
+  Nose [ sat 1 hue 28
+		x -4 y -44.7
+		r 180 b 0.9 s 4
+	]
+  Eyes [ sat 1 hue 28
+		x -4.5 y -45
+		r 0 b 0 s 1
+	]
+}
+
+shape Balls
+rule 0.5 {
+  CIRCLE [ x -0.5 y 0 s 0.8]
+  CIRCLE [ x -0.5 y .6 s 0.7]
+  CIRCLE [ x -0.5 y 1.1 s 0.6]
+}
+
+
+shape Nose
+rule 0.5 {
+  TRIANGLE [ x -0.5 y 0 s 0.4]
+}
+
+
+shape Eyes
+rule 0.5 {
+  CIRCLE [ x 1.5 y 1.8 s .6]
+  CIRCLE [ x 3.5 y 1.8 s .6]
+}
