@@ -4,7 +4,7 @@ _Scratch https://scratch.mit.edu/_
 
 # Domain
 
-_Beginner CS student work projects_
+_Beginner CS work projects_
 
 # Computational model
 
