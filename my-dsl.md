@@ -29,8 +29,8 @@ _JavaScript_
 
 # Benefits
 
-_Scratch is incredibly easy to understand which makes it well suited for begginer programmers (my first CS class in high school used Scratch).
-It has clearly labeled blocks that piece together which can be used to simulate writing functions without knowing coding syntax._
+_Scratch is incredibly easy to understand which makes it well suited for begginer programmers (my first CS class in high school was taught 
+using Scratch). It has clearly labeled blocks that piece together which can be used to simulate writing functions without knowing coding syntax._
 
 # Drawbacks
 
