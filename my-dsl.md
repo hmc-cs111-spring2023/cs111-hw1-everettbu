@@ -14,9 +14,10 @@ the movement of a cat (step, turn, etc.) while another set of blocks can be used
 
 # DSL-ness
 
-_I think that Scratch would align more closely with a general-purpose language than a "pure" DSL. This is due to the fact that
-it has depends on loops which likely makes it Turing complete. Also, I found that the line was blurred when researching whether Scratch 
-was a DSL or a programming language._
+_I think that Scratch would align more closely with a "pure" DSL than a general-purpose language. This is due to the fact 
+that it would be very tedious to write most funtional programs using the set of blocks that it provides you with. However, it 
+has the ability to use loops which likely makes it Turing complete. I found that the line was blurred when reading reddit 
+threads that argued whether Scratch was a DSL or a programming language._
 
 # Internal or external?
 
