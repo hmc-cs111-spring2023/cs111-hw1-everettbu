@@ -1,39 +1,39 @@
 # Language
 
-_What is the name of the language? Link the name to its webpage
-(if appropriate)._
+_Scratch https://scratch.mit.edu/_
 
 # Domain
 
-_Describe the language's domain in five words._
+_Beginner CS work projects_
 
 # Computational model
 
-_We don't yet have a great definition of the term "computational model".
-For now, try to come up with the clearest, most concise explanation of
-what happens when a program in your DSL runs._
+_When a program in Scratch is run, an animation is created that used a set of predefined blocks that the user can manipulate. 
+These blocks simulate a programming language but have a very limited capacity. For example, one set of the blocks deterimes 
+the movement of a cat (step, turn, etc.) while another set of blocks can be used to loop these movements and stop them when desired._
 
 # DSL-ness
 
-_Fowler writes about a spectrum of languages, from general-purpose languages to
-"purely" domain-specific. Where does the DSL you chose fall on this spectrum,
-and why?_
+_I think that Scratch would align more closely with a "pure" DSL than a general-purpose language. This is due to the fact 
+that it would be very tedious to write most funtional programs using the set of blocks that it provides you with. However, it 
+has the ability to use loops which means it might be Turing complete. I found that the line was blurred when reading reddit 
+threads that argued whether Scratch was a DSL or a programming language._
 
 # Internal or external?
 
-_Is the language implemented as an internal or external DSL?
-Justify your answer._
+_External DSL. When using Scratch, its functions are written in the language unique to Scratch and then are processed by JavaScript._
 
 # Host language
 
-_What language(s) was (were) used to implement the DSL?_
+_JavaScript_
 
 # Benefits
 
-_Identify one potential benefit of the DSL: how is a programmer's life made
-easier by the existence of this language?_
+_Scratch is incredibly easy to understand which makes it well suited for begginer programmers (my first CS class in high school was taught 
+using Scratch). It has clearly labeled blocks that piece together which can be used to simulate writing functions without knowing coding syntax._
 
 # Drawbacks
 
-_Identify one potential drawback of the DSL: what does a programmer
-lose by using this DSL instead of a general-purpose language?_
+_Scratch simplifies coding to a point where its users lose the ability to code anything complex. It is not useful for anything beyond
+teaching begginer coders the fundamental elements of CS. Its usefulness is limited by its ability to create basic animations using a set of
+tools that Scratch provides, without the use of anything outside the program._
